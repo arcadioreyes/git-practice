@@ -1,0 +1,4 @@
+Name: Arcadio
+Age: 37
+Favorite Color: Blurple
+Favorite Food: Pizza
